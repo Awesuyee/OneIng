@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://awesuyee.github.io/OneIng/"
+languageCode = "en-us"
+title = "My New Hugo Site"
 theme = "ananke"
+canonifyURLs = true
+
